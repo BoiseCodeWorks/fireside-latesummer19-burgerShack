@@ -1,0 +1,14 @@
+/Users/catherine/source/codeworks/TA-Business/firesides/week10/buergershack/bin/Debug/netcoreapp2.2/buergershack.deps.json
+/Users/catherine/source/codeworks/TA-Business/firesides/week10/buergershack/bin/Debug/netcoreapp2.2/buergershack.runtimeconfig.json
+/Users/catherine/source/codeworks/TA-Business/firesides/week10/buergershack/bin/Debug/netcoreapp2.2/buergershack.runtimeconfig.dev.json
+/Users/catherine/source/codeworks/TA-Business/firesides/week10/buergershack/bin/Debug/netcoreapp2.2/buergershack.dll
+/Users/catherine/source/codeworks/TA-Business/firesides/week10/buergershack/bin/Debug/netcoreapp2.2/buergershack.pdb
+/Users/catherine/source/codeworks/TA-Business/firesides/week10/buergershack/obj/Debug/netcoreapp2.2/buergershack.csprojAssemblyReference.cache
+/Users/catherine/source/codeworks/TA-Business/firesides/week10/buergershack/obj/Debug/netcoreapp2.2/buergershack.csproj.CoreCompileInputs.cache
+/Users/catherine/source/codeworks/TA-Business/firesides/week10/buergershack/obj/Debug/netcoreapp2.2/buergershack.RazorAssemblyInfo.cache
+/Users/catherine/source/codeworks/TA-Business/firesides/week10/buergershack/obj/Debug/netcoreapp2.2/buergershack.RazorAssemblyInfo.cs
+/Users/catherine/source/codeworks/TA-Business/firesides/week10/buergershack/obj/Debug/netcoreapp2.2/buergershack.AssemblyInfoInputs.cache
+/Users/catherine/source/codeworks/TA-Business/firesides/week10/buergershack/obj/Debug/netcoreapp2.2/buergershack.AssemblyInfo.cs
+/Users/catherine/source/codeworks/TA-Business/firesides/week10/buergershack/obj/Debug/netcoreapp2.2/buergershack.RazorTargetAssemblyInfo.cache
+/Users/catherine/source/codeworks/TA-Business/firesides/week10/buergershack/obj/Debug/netcoreapp2.2/buergershack.dll
+/Users/catherine/source/codeworks/TA-Business/firesides/week10/buergershack/obj/Debug/netcoreapp2.2/buergershack.pdb
